@@ -50,12 +50,14 @@ body {
     color: white;
     text-align: center;
     font-size: 15px;
+
 }
 
 .name h2 {
     color: #c5f82a;
     text-align: center;
     font-size: 10px;
+
 }
 
 
@@ -66,7 +68,7 @@ body {
     align-items: center;
     width: 370px;
     height: auto;
-    margin-top: 15px;
+    margin-top: 20px;
     border-radius: 10px;
     overflow: hidden;
     margin-bottom: 20px;
@@ -95,6 +97,7 @@ body {
     width: 100%;
     color: white;
     text-decoration: none;
+    font-weight: bold;
 
 }
 
